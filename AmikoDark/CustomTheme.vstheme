@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="AmikoDark (5)" GUID="{8c63e7e2-a958-4b92-8057-d7c0bfa6a563}" BaseGUID="{28a44f4a-2bc4-4e64-98ee-0b041ec9bb54}">
+  <Theme Name="AmikoDark (6)" GUID="{5f324fb5-f2e8-4a58-8044-9cd98e03ca3f}" BaseGUID="{28a44f4a-2bc4-4e64-98ee-0b041ec9bb54}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF193549" />
@@ -1659,7 +1659,7 @@
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF124CD2" />
+        <Foreground Type="CT_RAW" Source="FF1EAC0F" />
       </Color>
       <Color Name="CSS Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2119,7 +2119,7 @@
       </Color>
       <Color Name="Markup Node">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF800000" />
+        <Foreground Type="CT_RAW" Source="FFFFC600" />
       </Color>
       <Color Name="Type">
         <Background Type="CT_INVALID" Source="00000000" />
