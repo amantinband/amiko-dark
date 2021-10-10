@@ -4,7 +4,7 @@
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-![Version](https://badgen.net/vs-marketplace/v/AmichaiMantinband.amikodark) ![Installs](https://badgen.net/vs-marketplace/i/AmichaiMantinband.amikodark) 
+![Version](https://badgen.net/vs-marketplace/v/AmichaiMantinband.amikodark) ![Installs](https://badgen.net/vs-marketplace/i/AmichaiMantinband.amikodark) ![Rating](https://badgen.net/vs-marketplace/rating/AmichaiMantinband.amikodark)
 [![GitHub contributors](https://img.shields.io/github/contributors/mantinband/amiko-dark)](https://GitHub.com/mantinband/amiko-dark/graphs/contributors/) [![GitHub Stars](https://img.shields.io/github/stars/mantinband/amiko-dark.svg)](https://github.com/mantinband/amiko-dark/stargazers) [![GitHub license](https://img.shields.io/github/license/mantinband/amiko-dark)](https://github.com/mantinband/amiko-dark/blob/main/LICENSE)
 ## Amiko dark is a Visual Studio color theme for developers with amazing taste!
 
