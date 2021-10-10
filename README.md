@@ -1,6 +1,7 @@
 <div align="center"> 
 
-# Amiko Dark
+<img src="./images/logo.png" alt="drawing" width="100px"/>
+
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ![Version](https://badgen.net/vs-marketplace/v/AmichaiMantinband.amikodark) ![Installs](https://badgen.net/vs-marketplace/i/AmichaiMantinband.amikodark) 
