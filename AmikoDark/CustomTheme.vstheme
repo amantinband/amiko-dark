@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="AmikoDark (6)" GUID="{5f324fb5-f2e8-4a58-8044-9cd98e03ca3f}" BaseGUID="{28a44f4a-2bc4-4e64-98ee-0b041ec9bb54}">
+  <Theme Name="Amiko Dark" GUID="{c9ec6a56-6e9c-48a8-af81-7d6c5dfcff27}" BaseGUID="{28a44f4a-2bc4-4e64-98ee-0b041ec9bb54}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF193549" />
@@ -1659,27 +1659,27 @@
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1EAC0F" />
+        <Foreground Type="CT_RAW" Source="FF04B504" />
       </Color>
       <Color Name="CSS Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFBC201" />
+        <Foreground Type="CT_RAW" Source="FFFC8D2E" />
       </Color>
       <Color Name="CSS Selector">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC16635" />
+        <Foreground Type="CT_RAW" Source="FFCD9CFE" />
       </Color>
       <Color Name="CSS Property Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF99C1FF" />
       </Color>
       <Color Name="CSS Property Value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFF200" />
+        <Foreground Type="CT_RAW" Source="FFCFEF70" />
       </Color>
       <Color Name="CSS String Value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFBC201" />
+        <Foreground Type="CT_RAW" Source="FFFC8D2E" />
       </Color>
       <Color Name="ScssVariableDeclarationClassificationFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1691,11 +1691,11 @@
       </Color>
       <Color Name="ScssMixinDeclarationFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC16635" />
+        <Foreground Type="CT_RAW" Source="FFCD9CFE" />
       </Color>
       <Color Name="ScssMixinReferenceFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC16635" />
+        <Foreground Type="CT_RAW" Source="FFCD9CFE" />
       </Color>
       <Color Name="RazorCode">
         <Background Type="CT_RAW" Source="FF15232D" />
@@ -2485,7 +2485,7 @@
     </Category>
     <Category Name="CommonDocument" GUID="{72eb4027-f4ae-4b6c-9cc2-dfd5b49d9415}">
       <Color Name="Page">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF193549" />
         <Foreground Type="CT_RAW" Source="FF839496" />
       </Color>
       <Color Name="Caption">
@@ -2749,6 +2749,10 @@
       </Color>
       <Color Name="InnerTabTextPressed">
         <Background Type="CT_RAW" Source="FF477786" />
+      </Color>
+      <Color Name="Container">
+        <Background Type="CT_RAW" Source="FF122738" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
     </Category>
     <Category Name="ConfigPage" GUID="{699a73b3-57e2-4754-9364-ee80d6852c2f}">
@@ -9473,7 +9477,7 @@
       </Color>
       <Color Name="XML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1EAC0F" />
+        <Foreground Type="CT_RAW" Source="FF04B504" />
       </Color>
       <Color Name="Memory Changed">
         <Background Type="CT_RAW" Source="FF193549" />
