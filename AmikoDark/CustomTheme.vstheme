@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Amiko Dark" GUID="{c9ec6a56-6e9c-48a8-af81-7d6c5dfcff27}" BaseGUID="{28a44f4a-2bc4-4e64-98ee-0b041ec9bb54}">
+  <Theme Name="Amiko Dark" GUID="{db04cb7d-0ba5-4a61-98b1-56dd1f544c23}" BaseGUID="{28a44f4a-2bc4-4e64-98ee-0b041ec9bb54}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF193549" />
@@ -3663,22 +3663,22 @@
         <Background Type="CT_RAW" Source="FF122738" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FF122738" />
+        <Background Type="CT_RAW" Source="00122738" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientMiddle">
-        <Background Type="CT_RAW" Source="FF122738" />
+        <Background Type="CT_RAW" Source="00122738" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="FF122738" />
+        <Background Type="CT_RAW" Source="00122738" />
       </Color>
       <Color Name="CommandShelfHighlightGradientBegin">
-        <Background Type="CT_RAW" Source="FF122738" />
+        <Background Type="CT_RAW" Source="00122738" />
       </Color>
       <Color Name="CommandShelfHighlightGradientMiddle">
-        <Background Type="CT_RAW" Source="FF122738" />
+        <Background Type="CT_RAW" Source="00122738" />
       </Color>
       <Color Name="CommandShelfHighlightGradientEnd">
-        <Background Type="CT_RAW" Source="FF122738" />
+        <Background Type="CT_RAW" Source="00122738" />
       </Color>
       <Color Name="DiagReportBackground">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -8103,7 +8103,7 @@
         <Background Type="CT_RAW" Source="FF3A555A" />
       </Color>
       <Color Name="Unfocused">
-        <Background Type="CT_RAW" Source="FF122738" />
+        <Background Type="CT_RAW" Source="00122738" />
         <Foreground Type="CT_RAW" Source="FFD0D2D3" />
       </Color>
       <Color Name="UnfocusedWatermarkText">
