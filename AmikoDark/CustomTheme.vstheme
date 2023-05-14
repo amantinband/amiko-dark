@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Amiko Dark" GUID="{db04cb7d-0ba5-4a61-98b1-56dd1f544c23}" BaseGUID="{28a44f4a-2bc4-4e64-98ee-0b041ec9bb54}">
+	<Theme Name="Amiko Dark" GUID="{db04cb7d-0ba5-4a61-98b1-56dd1f544c23}" BaseGUID="{28a44f4a-2bc4-4e64-98ee-0b041ec9bb54}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF193549" />
@@ -2441,6 +2441,10 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
+      <Color Name="Matched Selected Text">
+		<Background Type="CT_INVALID" Source="00000000" />
+		<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
       <Color Name="Plain Text">
