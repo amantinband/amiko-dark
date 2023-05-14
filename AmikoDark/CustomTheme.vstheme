@@ -2470,11 +2470,11 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Button">
-        <Background Type="CT_RAW" Source="FF15232D" />
+        <Background Type="CT_RAW" Source="FF2F4C61" />
         <Foreground Type="CT_RAW" Source="FF839496" />
       </Color>
       <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FF15232D" />
+        <Background Type="CT_RAW" Source="FF2F4C61" />
       </Color>
       <Color Name="ButtonPressed">
         <Background Type="CT_RAW" Source="FF477786" />
